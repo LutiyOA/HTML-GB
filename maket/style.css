@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    margin-bottom: 0;
+}
+
+.content__top {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+
+.central {
+    margin-top: 164px;
+    margin-bottom: 162px;
+}
+
+.central__buttons {
+    margin-top: 37px;
+}
+
+.logos {
+    margin-top: 97px;
+    margin-bottom: 96px;
+}
